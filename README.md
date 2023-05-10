@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xpeng722&show_icons=true)
+
+<a title="Hits" target="_blank" href="https://github.com/xpeng722/xpeng722"><img src="https://hits.b3log.org/xpeng722/xpeng722.svg"></a>
 
 <!--
 **xpeng722/xpeng722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
